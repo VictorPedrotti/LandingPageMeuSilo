@@ -5,8 +5,8 @@ import "../styles/utility.css";
 import Button from "../components/Button";
 import Menu from "../assets/menu-icon.svg";
 import Close from "../assets/close.svg";
-import HeroRectangleOne from "../assets/images/rectangleOne.png";
-import HeroRectangleTwo from "../assets/images/rectangleTwo.png";
+import HeroRectangleOne from "../assets/images/RectangleOne.png";
+import HeroRectangleTwo from "../assets/images/RectangleTwo.png";
 import "../styles/hero.css";
 import Card from "../components/Card";
 
