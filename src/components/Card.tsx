@@ -24,16 +24,16 @@ const Card: React.FC<CardProps> = ({ title, description }) => {
 const CardGrid: React.FC = () => {
   const cardData: CardProps[] = [
     {
-      title: 'Produto Vencedor 1',
-      description: 'Nossa solução inovadora já venceu diversos prêmios.',
+      title: 'Na palma da mão',
+      description: 'Nossa solução possibilita o controle do seu silo no seu celular.',
     },
     {
-      title: 'Produto Vencedor 2',
-      description: 'Soluções que se destacam em inovação e praticidade.',
+      title: 'Integração com cooperativas',
+      description: 'Realize seus pedidos diretamente pelo App, com maior agilidade.',
     },
     {
-      title: 'Produto Vencedor 3',
-      description: 'Reconhecido no mercado por sua eficiência e sucesso.',
+      title: 'Gestão e alertas',
+      description: 'Possibilidade de configuração de acordo com as suas necessidades.',
     },
   ];
 
