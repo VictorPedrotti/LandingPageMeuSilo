@@ -3,7 +3,7 @@ import '../styles/utility.css';
 import '../styles/testimonials.css';
 import Star from '../assets/starIcon.svg'; 
 import StarOuter from '../assets/starOuterIcon.svg';
-import ProfileImageOne from '../assets/images/profileImageOne.png';
+import ProfileImageOne from '../assets/images/ProfileImageOne.png';
 
 const Testimonials = () => {
   return (
