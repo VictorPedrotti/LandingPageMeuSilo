@@ -25,7 +25,8 @@ const Testimonials = () => {
             <span className="testimony">
               <p>
                 Certamente o mercado chinês de elétricos está bombando, só existe
-                uma coisa melhor do que isso, provar uma boa comida DonaFrost no almoço.
+                uma coisa melhor do que isso, contolar a quantidade de ração do seu frango
+                na palma da mão.
               </p>
             </span>
             <span className="rating">
@@ -45,7 +46,8 @@ const Testimonials = () => {
             <span className="testimony">
               <p>
                 Certamente o mercado chinês de elétricos está bombando, só existe
-                uma coisa melhor do que isso, provar uma boa comida DonaFrost no almoço.
+                uma coisa melhor do que isso, contolar a quantidade de ração do seu frango
+                na palma da mão.
               </p>
             </span>
             <span className="rating">
@@ -65,7 +67,8 @@ const Testimonials = () => {
             <span className="testimony">
               <p>
                 Certamente o mercado chinês de elétricos está bombando, só existe
-                uma coisa melhor do que isso, provar uma boa comida DonaFrost no almoço.
+                uma coisa melhor do que isso, contolar a quantidade de ração do seu frango
+                na palma da mão.
               </p>
             </span>
             <span className="rating">

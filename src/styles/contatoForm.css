@@ -2,7 +2,13 @@
   display: flex;
   flex-direction: column; 
   align-items: center; 
-  gap: 16px; 
+  gap: 16px;
+  
+}
+
+form .btn-default {
+  width: auto; 
+  max-width: 200px !important;
 }
 
 .input-field {
@@ -20,6 +26,6 @@
   color: #aaa;
 }
 
-.btn-submit {
-  max-width: 150px;
+form .btn-primary {
+  max-width: 200px; 
 }

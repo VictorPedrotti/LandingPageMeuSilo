@@ -56,18 +56,18 @@ const ContatoForm = () => {
               placeholder="Seu melhor Email"
               className="input-field"
               required
-              value={email} // Controlando o valor
-              onChange={(e) => setEmail(e.target.value)} // Atualizando o estado
+              value={email} 
+              onChange={(e) => setEmail(e.target.value)} 
             />
             <input
               type="text"
               placeholder="Motivo do contato"
               className="input-field"
               required
-              value={message} // Controlando o valor
-              onChange={(e) => setMessage(e.target.value)} // Atualizando o estado
+              value={message} 
+              onChange={(e) => setMessage(e.target.value)} 
             />
-            <Button text="Enviar" key="btn-submit" />
+            <Button text="Enviar" btn-primary/>
           </form>
         </div>
       </div>

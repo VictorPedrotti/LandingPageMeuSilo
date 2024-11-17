@@ -21,7 +21,7 @@ const Pricing = () => {
           <Button text="Pedir agora" secondary key="free" />
           <span className="hr" /><span className="features">
             <img src={Check} alt="ícone check" width={24} height={24} />
-            <p>Limite de 5 silos</p>
+            <p>Limite de 3 silos</p>
           </span>
           <span className="features">
               <img src={Check} alt="ícone check" width={24} height={24} />
@@ -44,31 +44,31 @@ const Pricing = () => {
           <span className="hr" />
           <span className="features">
             <img src={Check} alt="ícone check" width={24} height={24} />
-            <p>2 Entregas</p>
+            <p>Silos ilimitados</p>
           </span>
           <span className="features">
             <img src={Check} alt="ícone check" width={24} height={24} />
-            <p>5 Refeições por semana</p>
+            <p>Preferência em pedidos</p>
           </span>
           <span className="features">
             <img src={Check} alt="ícone check" width={24} height={24} />
-            <p>2 Sucos por semana</p>
+            <p>Insights exclusivos</p>
           </span>
         </div>
         <div className="pricing-card">
           <span className="plan">
             <h3>Básico</h3>
-            <p>Você tem direito a uma prova das comidas DonaFrost.</p>
+            <p>Controle eficaz da sua granja na palma da mão.</p>
           </span>
           <h2>Grátis</h2>
           <Button text="Pedir agora" secondary key="free" />
           <span className="hr" /><span className="features">
             <img src={Check} alt="ícone check" width={24} height={24} />
-            <p>Retire na loja</p>
+            <p>Limite de 3 silos</p>
           </span>
           <span className="features">
               <img src={Check} alt="ícone check" width={24} height={24} />
-              <p>Apenas 1 por CPF</p>
+              <p>Não acompanha instalação do sensor</p>
           </span>
         </div>
       </section>

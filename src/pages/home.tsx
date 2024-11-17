@@ -12,6 +12,7 @@ import Card from "../components/Card";
 import Testimonials from "../components/testimonials";
 import Pricing from "../components/pricing";
 import ContatoForm from "../components/contatoForm";
+import Footer from "../components/Footer";
 
 export default function Home() {
     const [showMobileMenu, setShowMobileMenu] = useState(false);
@@ -105,6 +106,7 @@ export default function Home() {
             <Testimonials></Testimonials>
             <Pricing></Pricing>
             <ContatoForm></ContatoForm>
+            <Footer></Footer>
         </>
     )
 }
