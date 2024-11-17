@@ -3,17 +3,18 @@
   flex-direction: column;
   padding-block: 4rem;
   gap: 2rem;
-}
 
-header {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  align-items: center;
 
-  :first-child {
-    color: var(--primary-color);
-    font-weight: var(--fw-bold);
+  header {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+
+    :first-child {
+      color: var(--primary-color);
+      font-weight: var(--fw-bold);
+    }
   }
 }
 
